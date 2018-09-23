@@ -1,0 +1,21 @@
+
+*************************** USER COMMANDS ***************************
+
+#####################################################################
+#  LR   			  - LIST OF ROOMS                   #
+#  CR [ROOM_NAME]  		  - CREATE A ROOM                   #
+#  JR [ROOM_NAME]  		  - JOIN A ROOM                     #
+#  LER [ROOM_NAME] 		  - LEAVE A ROOM                    #
+#  LC   			  - LIST OF CLIENTS                 #
+#  LRC[ROOM_NAME] 	 	  - LIST OF ROOM CLIENTS            #
+#  MR [ROOM_NAME] [MESSAGE]  	  - SEND MESSAGE TO A ROOM          #
+#  PM [CLIENT_NAME] [MESSAGE]  	  - SEND A PRIVATE MESSAGE          #
+#  SFR [ROOM_NAME] [FILE_NAME] 	  - SEND FILE TO ROOM               #
+#  SFP [CLIENT_NAME] [FILE_NAME]  - SEND FILE TO ANOTHER CLIENT     #
+#  EXIT 			  - EXIT IRC                        #
+#  HELP 			  - LIST OF IRC COMMANDS            #
+#####################################################################
+
+
+
+
